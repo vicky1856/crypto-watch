@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crypto-watch%20/static/css/main.2865d55d.css",
+    "main.js": "/crypto-watch%20/static/js/main.656f4005.js",
+    "index.html": "/crypto-watch%20/index.html",
+    "main.2865d55d.css.map": "/crypto-watch%20/static/css/main.2865d55d.css.map",
+    "main.656f4005.js.map": "/crypto-watch%20/static/js/main.656f4005.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2865d55d.css",
+    "static/js/main.656f4005.js"
+  ]
+}
